@@ -96,4 +96,4 @@ StoreFleet is a RESTful API build using Node.js, Express.js, Nodemailer and Mong
 - Winston (for logging)
 - Dotenv (for environment variables)
 - Nodemailer (For sending emails)
-- Node.js Crypto Module (For generating and verifying OTPs securely)
+- Node.js Crypto Module (For generating secure token for password reset)
